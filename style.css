@@ -1,0 +1,30 @@
+body {
+  background-image: url("https://coresites-cdn.factorymedia.com/mpora_new/wp-content/uploads/2016/08/Five-best-big-wave-women-in-the-world.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  text-align: center;
+  color: crimson;
+  font-family: "Rubik" , sans-serif ;
+}
+title{
+  font-family: "Lora", sans-serif;
+}
+
+img{
+  size: 200px;
+  float: left;
+  margin: 10px 50px 10px 50px;
+}
+
+.profile{
+  position: relative;
+  display: inline-block;
+  float: left;
+}
+
+.profile h2{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+}
